@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Raman 👋  
+🎓 **Student | Aspiring Developer | Tech Enthusiast**  
+Welcome to my GitHub profile! I’m passionate about learning new technologies, building projects, and improving my problem-solving skills.  
+Currently exploring **Java, Web Development and Databases** — and always open to collaborating on beginner-friendly projects.  
+---
+## 🚀 About Me  
+- 📚 Currently learning: **Java OOP**, **HTML/CSS/JS**, and **ReactJS**  
+- 💡 Interested in: Web Development and Software Engineering  
+- 🛠️ Hands-on with: Java, HTML, CSS, JavaScript, Git & GitHub  
+- 🎯 Goal: To build impactful projects and strengthen my development skills  
+- 🌱 Fun fact: I love turning ideas into working prototypes  
+## 🛠 Skills  
+- **Languages:** Java, HTML, CSS, JavaScript,C language, React js 
+- **Tools:** Git, GitHub, NetBeans, VS Code 
+- **Concepts:** OOP, Responsive Web Design, Problem-Solving, DSA
 
-<!--
-**Raman-Matlani/Raman-Matlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me 
+Linkedin: https://www.linkedin.com/in/ramanmatlani/
+Email: ramanmatlani1234@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  "Learning one step at a time — building something new every day"
