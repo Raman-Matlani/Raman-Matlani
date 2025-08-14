@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 Currently exploring **Java, Web Development and Databases** — and always open to collaborating on beginner-friendly projects.  
 ---
 ## 🚀 About Me  
-- 📚 Currently learning: **Java OOP**, **HTML/CSS/JS**, and **ReactJS**  
+- 📚 Currently learning: **Java OOP DSA**, **HTML/CSS/JS**, and **ReactJS**  
 - 💡 Interested in: Web Development and Software Engineering  
-- 🛠️ Hands-on with: Java, HTML, CSS, JavaScript, Git & GitHub  
+- 🛠️ Hands-on with: Java, HTML, CSS, JavaScript, C language, Git & GitHub  
 - 🎯 Goal: To build impactful projects and strengthen my development skills  
 - 🌱 Fun fact: I love turning ideas into working prototypes  
 ## 🛠 Skills  
